@@ -3,6 +3,7 @@
 
 html{
 	background-color: #fff;
+	width: 80%;
 }
 
 body {
@@ -10,5 +11,10 @@ body {
 	font-size: 100%;
 	font-family: Helvetica, sans-serif;
 	line-height: 1.5rem;
-	/*opacity: .5;*/
 }
+
+h1 {
+	font-weight: bold;
+	font-color: crimson;
+}
+
